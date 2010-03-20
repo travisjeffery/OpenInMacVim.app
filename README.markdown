@@ -9,6 +9,9 @@ thus here is OpenInMacVim.
 
 And drag that artistic-pulley-puller (app) onto your Finder's window.
 
+And you if haven't install scrooloose's
+[NERDTree](http://github.com/scrooloose/nerdtree) for best results.
+
 See this [link.](http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder)
 
 ## Also,
