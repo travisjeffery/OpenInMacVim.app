@@ -5,6 +5,10 @@ thus here is OpenInMacVim.
 
 ## Usage
 
+`git clone git://github.com/travisjeffery/OpenInMacVim.app.git`
+
+And drag that artistic-pulley-puller (app) onto your Finder's window.
+
 See this [link.](http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder)
 
 ## Also,
